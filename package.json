@@ -3,7 +3,6 @@
     "type": "module",
     "scripts": {
         "build": "vite build",
-        "vercel-build": "apt-get update && apt-get install -y libssl1.0-dev && vite build",
         "dev": "vite"
     },
     "devDependencies": {
